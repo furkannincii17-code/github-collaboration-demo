@@ -1,5 +1,5 @@
 def add(a, b):
-    return a + b
+    return a - b  # BUG: toplama yerine cikarma
 
 
 def subtract(a, b):
